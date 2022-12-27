@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Dashboard Page feature
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 130.351 s - in Dashboard Page feature
